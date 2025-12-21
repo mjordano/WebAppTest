@@ -190,5 +190,4 @@ Aplikacija koristi luksuznu crno-belu paletu boja sa zlatnim akcentima:
 MIT License
 
 ## 👨‍💻 Autori
-
-Projekat razvijen u okviru Elab organizacije.
+Marko
